@@ -1,0 +1,69 @@
+.entry{
+    display: inline-flex;
+    border: black 1px solid;
+    width: 1000px;
+    BACKGROUND: WHITE;
+    border-radius: 1px 1px 1px 1px;
+}
+.airing {
+    font-weight: bold;
+    border: black 1px solid;
+    padding: 0;
+    margin: 0;
+    width: 10%;
+}
+.airingDate{
+    padding: 0;
+    margin: 0;
+    float: left;
+    border: black 1px solid;
+    height: 100%;
+    background: aquamarine;
+    align-content: center;
+}
+.tags{
+    width: 20%;
+}
+.premiere{
+    text-align: center;
+    background: red;
+    border-radius: 2px;
+    width: 30%;
+    font-size: 80%;
+    float: left;
+}
+.forKids{
+    float: left;
+    text-align: center;
+    background: greenyellow;
+    border-radius: 2px;
+    width: 30%;
+    font-size: 80%;
+}
+.title{
+    text-align: left;
+    float: left;
+}
+.type{
+    float: left;
+    text-align: left;
+    margin-right: 10px;
+}
+.category{
+    clear: both;
+    float: left;
+    text-align: left;
+}
+.info{
+    font-size: 70%;
+    width: 60%;
+ }
+.photo{
+    width: 10%;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 50%;
+    height: 90%;
+}
